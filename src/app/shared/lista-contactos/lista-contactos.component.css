@@ -1,0 +1,8 @@
+.flex{
+  display: flex ;
+  flex-wrap: wrap;
+  font-family: Arial;
+  /*background-color: #B1B2FF;*/
+
+
+}

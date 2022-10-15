@@ -1,0 +1,4 @@
+
+<div class="flex">
+  <app-contacto *ngFor="let contacto of listaContactos" [contacto]="contacto" (onDoEvent)="eliminarCard($event)" ></app-contacto>
+</div>

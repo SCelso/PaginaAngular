@@ -1,0 +1,38 @@
+
+
+.card{
+  width: 25em;
+  height: 10em;
+  margin: 0.5em;
+  padding: 1em;
+  border-radius:30px;
+  background: #D2DAFF;
+}
+
+.card-body{text-align: center;
+
+}
+.card-name{
+  font-family: Arial;
+}
+.card-number{}
+.card-subtitle{}
+.card-delete{
+  width: 5em;
+  margin-right: 5em;
+  padding: 0.5em;
+  border-radius: 5px;
+  background-color: red;
+}
+.card-update{
+  width: 5em;
+  margin-left: 5em;
+  padding: 0.5em;
+  border-radius: 5px;
+  background-color: #EEF1FF;
+}
+.buttons{
+
+  display: flex;
+  justify-content: center;
+}
